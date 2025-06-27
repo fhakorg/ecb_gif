@@ -1,5 +1,5 @@
 # What does it do:
-Generates an animated GIF by encrypting an image, and capturing frames of the image ias it is being decrypted
+Generates an animated GIF by encrypting an image, and capturing frames of the image as it is being decrypted
 
 # Why:
 Demonstrates the fact that even if something is encrypted with AES, meaningful data can still be extracted
