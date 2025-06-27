@@ -3,3 +3,4 @@
 *.png
 ecbv
 !tux_dark.png
+!light_tux.png
